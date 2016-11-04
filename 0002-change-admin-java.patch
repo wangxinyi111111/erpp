@@ -1,0 +1,24 @@
+From 0f5906781e1e323820f01a1e1485fe70d7768e6a Mon Sep 17 00:00:00 2001
+From: mldn <mldnqa@163.com>
+Date: Fri, 4 Nov 2016 17:35:22 +0800
+Subject: [PATCH 2/2] change admin,java
+
+---
+ Admin.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Admin.java b/Admin.java
+index dea53d8..4e7eca0 100644
+--- a/Admin.java
++++ b/Admin.java
+@@ -1,5 +1,6 @@
+ public class Admin{
+ 	private Integer loc;
+ 	private String lddlld;
++	private String aid;
+ {
+ }
+\ No newline at end of file
+-- 
+2.6.2.windows.1
+
