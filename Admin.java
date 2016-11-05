@@ -1,6 +1,9 @@
+packge cn.mldn.admin
 public class Admin{
-	private Integer loc;
+
 	private String lddlld;
 	private Admin  admin;
-{
+    public String toString{
+    	return "dhdhdhd";
+    }
 }
